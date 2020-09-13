@@ -1,0 +1,14 @@
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\bin\Debug\ps2padgui.exe.config
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\bin\Debug\ps2padgui.exe
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\bin\Debug\ps2padgui.pdb
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.csprojAssemblyReference.cache
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.Form1.resources
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.Properties.Resources.resources
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.csproj.GenerateResource.cache
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.csproj.CoreCompileInputs.cache
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.exe
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.pdb
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\bin\Debug\Nefarius.ViGEm.Client.dll
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\obj\Debug\ps2padgui.csproj.CopyComplete
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\bin\Debug\JetBrains.Annotations.dll
+C:\Users\Ty\source\repos\ps2padgui\ps2padgui\bin\Debug\JetBrains.Annotations.xml
